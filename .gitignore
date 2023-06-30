@@ -27,6 +27,5 @@ target/
 /.nb-gradle/
 build/
 
-/extra
 ### VS Code ###
 .vscode/
